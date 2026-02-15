@@ -25,7 +25,7 @@
 </p>
 
 ### 🌟 Featured Project
-**[Mouad Maafi Portfolio](https://mon-portfolio-three-swart.vercel.app/)**
+**[Mouad Maafi Portfolio](https://mouad-maafi.vercel.app/)**
 > *A high-performance AI showcase built with Vite, React, and TypeScript.*
 
 ---
